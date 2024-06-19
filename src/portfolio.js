@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who excels in developing end-to-end solutions, creating sustainable and scalable software systems for impactful outcomes.",
   resumeLink:
-    "https://drive.google.com/file/d/1Ke7hFoeGNPfJWvEj8IyXVw5xUwAZtN9I/view",
+    "https://drive.google.com/file/d/1ywXyLKyzVcft3shoOCXAyKvBLIYOZRQi/view?usp=drive_link",
   portfolio_repository: "https://github.com/ahmad5373",
   githubProfile: "https://github.com/ahmad5373",
 };
@@ -276,7 +276,7 @@ const experience = {
           company: "BXTrack Solutions",
           company_url: "https://www.linkedin.com/company/bxtrack/",
           logo_path: "bxtrack_logo.png",
-          duration: "May 2023 - April",
+          duration: "May 2023 - March 2024",
           location: "Satellite Town, Rawalpindi",
           description:
             "As a Backend Engineer at Bxtrack, I specialize in Node.js development, crafting powerful solutions with technologies like JavaScript, Node js Express.js, MongoDB, Nest.js, Prisma, Electron, Puppeteer, React.js, and Tailwind CSS. With my expertise, I've played a key role in delivering successful website projects. I excel in building efficient and scalable RESTful APIs, ensuring smooth operation and high performance. Additionally, I have a ability for automation, especially in creating scraping solutions that streamline processes",
