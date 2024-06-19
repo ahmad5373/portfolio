@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "AhmedRazaPortfolio",
-  "homepage": "https://ahmad5373.github.io/portfolio#",
+  "homepage": "https://ahmad5373.github.io/portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
