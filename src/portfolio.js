@@ -261,11 +261,21 @@ const experience = {
       work: true,
       experiences: [
         {
+          "title": "Full Stack MERN Developer",
+          "company": "Duseca Software",
+          "company_url": "https://duseca.com/",
+          "logo_path": "duseca_logo.png",
+          "duration": "October 2024 - Present",
+          "location": "IJP Road Rawalpindi",
+          "description": "As a Full Stack MERN Developer, I am responsible for designing and implementing dynamic, responsive, and high-performing web applications. I have been focusing on both frontend and backend development, utilizing MongoDB, Express.js, React.js, and Node.js to create scalable and maintainable solutions. I work closely with the team to build robust RESTful APIs and integrate them into the frontend, ensuring seamless user experiences. My role also includes enhancing the performance of applications, collaborating with cross-functional teams, and continuously learning about the latest industry trends to apply best practices in development.",
+          "color": "#4CAF50"
+        },
+        {
           title: "Junior MERN/MEAN Developer",
           company: "Coder Crew",
           company_url: "https://www.codercrew.xyz/",
           logo_path: "coder_crew_logo.jpg",
-          duration: "May 2023 - Working",
+          duration: "April 2024 - September 2024",
           location: "Gulberg III, Lahore, Punjab",
           description:
             "As a Junior MERN/MEAN Developer at Coder Crew, I have focused on honing my skills in full-stack web development. I am proficient in JavaScript and have hands-on experience with Node.js, Express.js, and MongoDB for backend development. On the frontend, I have worked with React.js to build responsive and user-friendly interfaces, leveraging libraries like Tailwind CSS for efficient styling. My experience includes collaborating on website projects, where I've contributed to the development of RESTful APIs that are both efficient and scalable. I am eager to continue learning and growing as a developer, with a particular interest in leveraging my automation skills to streamline processes and enhance project efficiency.",
@@ -274,24 +284,13 @@ const experience = {
         {
           title: "Backend Node Engineer II",
           company: "BXTrack Solutions",
-          company_url: "https://www.linkedin.com/company/bxtrack/",
+          company_url: "https://bxtrack.com/",
           logo_path: "bxtrack_logo.png",
           duration: "May 2023 - March 2024",
           location: "Satellite Town, Rawalpindi",
           description:
             "As a Backend Engineer at Bxtrack, I specialize in Node.js development, crafting powerful solutions with technologies like JavaScript, Node js Express.js, MongoDB, Nest.js, Prisma, Electron, Puppeteer, React.js, and Tailwind CSS. With my expertise, I've played a key role in delivering successful website projects. I excel in building efficient and scalable RESTful APIs, ensuring smooth operation and high performance. Additionally, I have a ability for automation, especially in creating scraping solutions that streamline processes",
           color: "#0879bf",
-        },
-        {
-          title: "Junior Backend Developer",
-          company: "SRB",
-          company_url: "https://www.linkedin.com/in/ahmed-raza-690ba4241/",
-          logo_path: "srb_logo.png",
-          duration: "Jan 2022 - April 2023",
-          location: "Saddar, Rawalpindi",
-          description:
-            "I began my career at SRB after a successful internship, quickly moving up to become a Junior Backend Developer. Over one year and three months, I excelled, earning recognition for my work. With skills in JavaScript, Node.js, Express.js, RESTful APIs, MySQL, and TypeScript, I craft strong backend solutions. I'm skilled at using tools like Sequelize and Express for reliable performance.",
-          color: "#9b1578",
         },
       ],
     },
@@ -302,7 +301,7 @@ const experience = {
           title: "Web Developer Internship",
           company: "SRB.",
           logo_path: "srb_logo.png",
-          duration: "Oct 2021 - Dec 2021",
+          duration: "Feb 2023 - April 2023",
           location: "Saddar, Rawalpindi",
           description:
             "My web development internship covered the basics of HTML/CSS and JavaScript for interactive features. I also gained hands-on experience with backend technologies like Node.js, Express, and MySQL. This internship sparked my passion for building dynamic and user-friendly web applications.",
