@@ -38,6 +38,27 @@
   justify-content: center;
 }
 
+/* .contact-heading-img-div img {
+  border-radius: 12px;
+  width: 800px;
+  height: 800px;
+  object-fit: cover;
+} */
+
+.contact-heading-img-div img {
+  width: 100%;
+  max-width: 550px; /* adjusts image size nicely */
+  height: auto;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.4s ease;
+}
+
+.contact-heading-img-div img:hover {
+  transform: scale(1.03);
+}
+
 .blog-heading-img-div {
   align-items: center;
   justify-content: center;
@@ -58,6 +79,7 @@
 .contact-heading-img-div > * {
   max-width: 100%;
   height: auto;
+  margin-bottom: 16px;
 }
 
 .blog-heading-img-div > * {
