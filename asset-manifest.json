@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.02ecacef.css",
-    "main.js": "/portfolio/static/js/main.8f1d72d4.js",
+    "main.css": "/portfolio/static/css/main.85a9ba43.css",
+    "main.js": "/portfolio/static/js/main.86944966.js",
     "static/media/portfolio.gif": "/portfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/portfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/portfolio/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
+    "static/media/ahmed_raza.png": "/portfolio/static/media/ahmed_raza.81b2e333c44e76fc44a1.png",
     "static/media/tiktok_logo.png": "/portfolio/static/media/tiktok_logo.bf41765c122d4b0f3fee.png",
     "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/iu_logo.png": "/portfolio/static/media/iu_logo.5f44628376f5171bea0f.png",
@@ -16,7 +17,7 @@
     "static/media/fa-regular-400.svg": "/portfolio/static/media/fa-regular-400.4e8f9fa44f7ec7479c39.svg",
     "static/media/rpi_logo.png": "/portfolio/static/media/rpi_logo.82340d1a3d7b4cdfdfbf.png",
     "static/media/fa-brands-400.eot": "/portfolio/static/media/fa-brands-400.b09f783b99c88d6989f7.eot",
-    "static/media/ahmed_raza.png": "/portfolio/static/media/ahmed_raza.88e96c9147fd906a8ab3.png",
+    "static/media/ahmed_raza_old.png": "/portfolio/static/media/ahmed_raza_old.88e96c9147fd906a8ab3.png",
     "static/media/fa-brands-400.ttf": "/portfolio/static/media/fa-brands-400.ec7723ea62ad74c14959.ttf",
     "static/media/GoogleSans-Italic.ttf": "/portfolio/static/media/GoogleSans-Italic.40bb50bd202405745006.ttf",
     "static/media/GoogleSans-MediumItalic.ttf": "/portfolio/static/media/GoogleSans-MediumItalic.56d4f777a7997e5a10b3.ttf",
@@ -34,6 +35,7 @@
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.abd0b20ec83cb1f60d42.svg",
     "static/media/fa-solid-900.woff2": "/portfolio/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
+    "static/media/WhatsApp Image 2025-09-22 at 2.28.01 PM.jpeg": "/portfolio/static/media/WhatsApp Image 2025-09-22 at 2.28.01 PM.7954f0160a630ba7929a.jpeg",
     "static/media/iiitk_logo.png": "/portfolio/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/portfolio/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/portfolio/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
@@ -68,11 +70,11 @@
     "static/media/googleAssistant.svg": "/portfolio/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.02ecacef.css.map": "/portfolio/static/css/main.02ecacef.css.map",
-    "main.8f1d72d4.js.map": "/portfolio/static/js/main.8f1d72d4.js.map"
+    "main.85a9ba43.css.map": "/portfolio/static/css/main.85a9ba43.css.map",
+    "main.86944966.js.map": "/portfolio/static/js/main.86944966.js.map"
   },
   "entrypoints": [
-    "static/css/main.02ecacef.css",
-    "static/js/main.8f1d72d4.js"
+    "static/css/main.85a9ba43.css",
+    "static/js/main.86944966.js"
   ]
 }
